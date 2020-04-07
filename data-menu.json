@@ -1,0 +1,39 @@
+{
+    "menu": [
+        {
+            "kategori": "pizza",
+            "nama": "Meat Lover",
+            "deskripsi": "Irisan sosis sapi, daging sapi cincang, burger sapi, sosis ayam.",
+            "harga": 49500,
+            "gambar": "https://images.pexels.com/photos/674574/pexels-photo-674574.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+        },
+        {
+            "kategori": "pizza",
+            "nama": "Super Supreme",
+            "deskripsi": "Daging ayam dan sapi asap, daging sapi cincang, burger sapi, jamur, paprika merah dan paprika hijau.",
+            "harga": 49500,
+            "gambar": "https://images.pexels.com/photos/674574/pexels-photo-674574.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+        },
+        {
+            "kategori": "pizza",
+            "nama": "Tuna Melt",
+            "deskripsi": "Irisan daging ikan tuna, butiran jagung, saus mayonnaise.",
+            "harga": 49500,
+            "gambar": "https://images.pexels.com/photos/674574/pexels-photo-674574.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+        },
+        {
+            "kategori": "pizza",
+            "nama": "American Favourite",
+            "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
+            "harga": 49500,
+            "gambar": "https://images.pexels.com/photos/674574/pexels-photo-674574.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Chocolate Milkshake",
+            "deskripsi": "Pokoknya Enak da Musti",
+            "harga": 24000,
+            "gambar": "https://images.pexels.com/photos/674574/pexels-photo-674574.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+        }
+    ]
+}
